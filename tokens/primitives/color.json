@@ -1,0 +1,55 @@
+{
+  "color": {
+    "$type": "color",
+    "magenta": {
+      "100": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [1, 0.9411764705882353, 0.9725490196078431],
+          "hex": "#FFF0F8"
+        },
+        "$description": "The lightest tint of our brand magenta color."
+      },
+      "300": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [1, 0.6, 0.803921568627451],
+          "hex": "#FF99CD"
+        },
+        "$description": "A lighter tint of our brand magenta color."
+      },
+      "400": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [1, 0.4, 0.7058823529411765],
+          "hex": "#FF66B4"
+        },
+        "$description": "The light tint of our brand magenta color."
+      },
+      "600": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [1, 0, 0.5294117647058824],
+          "hex": "#FF0087"
+        },
+        "$description": "Our raw brand magenta color."
+      },
+      "700": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [0.9019607843137255, 0, 0.4745098039215686],
+          "hex": "#E60079"
+        },
+        "$description": "A dark shade of our brand magenta color."
+      },
+      "800": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [0.8, 0, 0.4235294117647059],
+          "hex": "#CC006C"
+        },
+        "$description": "A darker shade of our brand magenta color."
+      }
+    }
+  }
+}
