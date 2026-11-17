@@ -50,6 +50,40 @@
         },
         "$description": "A darker shade of our brand magenta color."
       }
+    },
+    "navy": {
+      "100": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [0.9411764705882353, 0.9411764705882353, 1],
+          "hex": "#f0f0ff"
+        },
+        "$description": "Lightest value of brand navy."
+      },
+      "600": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [0, 0, 0.49411764705882355],
+          "hex": "#00007e"
+        },
+        "$description": "Raw brand navy. Never referenced by components."
+      },
+      "700": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [0, 0, 0.4196078431372549],
+          "hex": "00006b"
+        },
+        "$description": "Darker value of our brand navy."
+      },
+      "800": {
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [0, 0, 0.30196078431372547],
+          "hex": "00004d"
+        },
+        "$description": "Darkest value of our brand navy."
+      }
     }
   }
 }
