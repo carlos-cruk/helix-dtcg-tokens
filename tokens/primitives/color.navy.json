@@ -1,0 +1,39 @@
+{
+  "color": {
+    "$type": "color",
+    "navy": {
+      "100": {
+        "$value": {
+          "colorSpace": "rgb",
+          "components": [240, 240, 255],
+          "hex": "#f0f0ff"
+        },
+        "$description": "Lightest value of brand navy."
+      },
+      "600": {
+        "$value": {
+          "colorSpace": "rgb",
+          "components": [0, 0, 126],
+          "hex": "#00007e"
+        },
+        "$description": "Raw brand navy. Never referenced by components."
+      }
+    },
+    "700": {
+      "$value": {
+        "colorSpace": "rgb",
+        "components": [0, 0, 107],
+        "hex": "00006b"
+      },
+      "$description": "Darker value of our brand navy."
+      },
+    "800": {
+      "$value": {
+        "colorSpace": "rgb",
+        "components": [],
+        "hex": "00004d"
+      },
+      "$description": "Darkest value of our brand navy."
+    }
+  }
+}
